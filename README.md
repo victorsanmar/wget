@@ -9,7 +9,7 @@ Uso e instalación wget
 
 :heavy_minus_sign:[Ejemplos](https://github.com/victorsanmar/wget/blob/main/ejemplos)
 
-:heavy_minus_sign:[Referencias](https://github.com/jaimeod010/wget/blob/main/Referencias.md)
+:heavy_minus_sign:[Referencias](https://github.com/victorsanmar/wget/blob/main/referencias)
 
 :heavy_minus_sign:[Imágenes](https://github.com/victorsanmar/wget/tree/main/imagenes)
 
